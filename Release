@@ -1,8 +1,8 @@
-Origin: roly
-Label: roly
+Origin: Roly
+Label: Roly
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: a Cydia repo by roly MLS
+Description: a Cydia repo by Roly MLS

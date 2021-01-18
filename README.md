@@ -1,3 +1,3 @@
-Made by roly MLS.
+Made by Roly MLS.
 
-Checkout my channel "roly MLS"
+Checkout my channel "Roly MLS"
